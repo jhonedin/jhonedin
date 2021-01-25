@@ -8,5 +8,5 @@
  </p>
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonedin&layout=compact&theme=material-palenight&langs_count=7" alt="My github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonedin&layout=compact&theme=material-palenight&langs_count=8" alt="My github stats"/>
 </p>
